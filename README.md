@@ -1,6 +1,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Awesome Scene Text
+# Scene Text
 A curated list of papers and resources for scene text detection and recognition
 
 The year when a paper was first published, including ArXiv publications, is used. As a result, there may be cases when a paper was accepted for example to CVPR 2019, but it is listed in year 2018 because it was published in 2018 on ArXiv.
