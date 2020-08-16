@@ -223,6 +223,11 @@ The year when a paper was first published, including ArXiv publications, is used
 ## Dataset
 [`PowerPoint Text Detection and Recognition Dataset`](https://gitlab.com/rex-yue-wu/ISI-PPT-Dataset) `2017`
 
+[SROIE 2019](https://drive.google.com/open?id=1ShItNWXyiY1tFDM5W02bceHuJjyeeJl2)
+
+- Over 1062 images from Scanned receipts 
+- Task:text recognition
+
 [COCO-Text (ComputerVision Group, Cornell) 2016](http://vision.cornell.edu/se3/coco-text/)
 -  63,686images, 173,589 text instances, 3 fine-grained text attributes.
 - Task:text location and recognition
@@ -282,6 +287,7 @@ The year when a paper was first published, including ArXiv publications, is used
 
 |Dataset| Discription | Competition Paper |
 |---|---|----
+|[ICDAR 2019](http://rrc.cvc.uab.es/)| training and testing images|`paper`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](https://rrc.cvc.uab.es/?com=news&view=data&id=23)|
 |[ICDAR 2017](http://rrc.cvc.uab.es/)| 42618 training images and 9837 testing images|`paper`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](https://vision.cornell.edu/se3/wp-content/uploads/2019/01/ICDAR2017b.pdf)|
 |[ICDAR 2015](http://rrc.cvc.uab.es/)| 1000 training images and 500 testing images|`paper`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://rrc.cvc.uab.es/files/Robust-Reading-Competition-Karatzas.pdf)|
 |[ICDAR 2013](http://dagdata.cvc.uab.es/icdar2013competition/)| 229 training images and 233 testing images |`paper`  [![link](https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/10735/paper-icon_1150845_tmb.jpg)](http://dagdata.cvc.uab.es/icdar2013competition/files/icdar2013_competition_report.pdf)|
