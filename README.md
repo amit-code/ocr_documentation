@@ -12,6 +12,7 @@ The year when a paper was first published, including ArXiv publications, is used
 | 3. [Scene Text Recognition](#scene-text-recognition) |
 | 4. [Other scene text papers](#other-scene-text-related-papers) |
 | 5. [Scene Text Survey papers](#scene-text-survey) |
+| 6. [Dataset](#dataset) |
 
 ## Scene Text Detection (including methods for end-to-end detection and recognition)
 
@@ -219,7 +220,7 @@ The year when a paper was first published, including ArXiv publications, is used
 
 
 
-### Dataset
+## Dataset
 [`PowerPoint Text Detection and Recognition Dataset`](https://gitlab.com/rex-yue-wu/ISI-PPT-Dataset) `2017`
 
 [COCO-Text (ComputerVision Group, Cornell) 2016](http://vision.cornell.edu/se3/coco-text/)
