@@ -223,10 +223,16 @@ The year when a paper was first published, including ArXiv publications, is used
 ## Dataset
 [`PowerPoint Text Detection and Recognition Dataset`](https://gitlab.com/rex-yue-wu/ISI-PPT-Dataset) `2017`
 
+[CORD 2020](https://github.com/clovaai/cord)
+
+- Over 1k A Consolidated Receipt Dataset for Post-OCR Parsing 
+- Task:text recognition
+
+
 [SROIE 2019](https://drive.google.com/open?id=1ShItNWXyiY1tFDM5W02bceHuJjyeeJl2)
 
 - Over 1062 images from Scanned receipts 
-- Task:text recognition
+- Task:text location and recognition
 
 [COCO-Text (ComputerVision Group, Cornell) 2016](http://vision.cornell.edu/se3/coco-text/)
 -  63,686images, 173,589 text instances, 3 fine-grained text attributes.
